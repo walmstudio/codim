@@ -1,1 +1,0 @@
-python codim_tools/codim_glyph_editor.py
